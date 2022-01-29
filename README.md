@@ -39,7 +39,7 @@
 
 <p align="left">
   <a target="_blank"
-    href="https://www.linkedin.com/in/radmila-stojceva-71a838212"><img
+    href="https://www.linkedin.com/in/radmila-stojceva/"><img
     src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
   <a target="_blank"
     href="mailto:rstojceva@yahoo.it"><img
